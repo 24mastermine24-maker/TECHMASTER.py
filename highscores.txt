@@ -1,0 +1,3 @@
+easy:21
+medium:12
+hard:0

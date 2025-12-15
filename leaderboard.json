@@ -1,0 +1,60 @@
+{
+    "easy": [
+        {
+            "name": "Simon",
+            "score": 17
+        },
+        {
+            "name": "Simon",
+            "score": 16
+        },
+        {
+            "name": "simon",
+            "score": 15
+        },
+        {
+            "name": "sIMON",
+            "score": 13
+        },
+        {
+            "name": "sIMON",
+            "score": 13
+        },
+        {
+            "name": "Simon",
+            "score": 12
+        },
+        {
+            "name": "Simon",
+            "score": 11
+        },
+        {
+            "name": "Jeremy",
+            "score": 5
+        },
+        {
+            "name": "Jeremy",
+            "score": 3
+        },
+        {
+            "name": "Simon",
+            "score": 2
+        }
+    ],
+    "medium": [
+        {
+            "name": "Ronivil",
+            "score": 13
+        },
+        {
+            "name": "Simon",
+            "score": 1
+        }
+    ],
+    "hard": [
+        {
+            "name": "Ronald",
+            "score": 13
+        }
+    ]
+}
